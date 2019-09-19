@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#262626"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <!--6d6d6d-->
+
+    <ImageButton
+        android:id="@+id/play_btn"
+        android:src="@drawable/play_btn"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="110dp"
+        android:layout_gravity="center"
+        android:onClick="playSong"
+        android:background="#262626">
+    </ImageButton>
+
+    <ImageButton
+        android:id="@+id/pause_btn"
+        android:src="@drawable/pause_btn"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:onClick="pauseSong"
+        android:background="#262626">
+    </ImageButton>
+
+    <ImageButton
+        android:id="@+id/stop_btn"
+        android:src="@drawable/stop_btn"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:onClick="stopSong"
+        android:background="#262626">
+    </ImageButton>
+
+
+
+</LinearLayout>
