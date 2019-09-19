@@ -10,6 +10,6 @@ This is a media player app, which depicts the implementation of Android Services
 * Extract the .ZIP file in your pc.
 * Now import the project in Android Studio and Run it.
 
-The working of all the major android services and and activity lifecycle is shown in this project.
+Working of all the major android services and activity lifecycle is shown in this project.
 
 Happy Developing ;-)
