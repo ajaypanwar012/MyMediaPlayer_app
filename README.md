@@ -1,10 +1,8 @@
 # MyMediaPlayer_app
 
-#==============================================================================================================================
 Github: https://github.com/ajaypanwar012
 Gmail: ajaypanwar012@gmail.com
 Linkedin: https://linkedin.com/in/ajay-panwar-939b52150/
-#==============================================================================================================================
 
 This is a media player app, which depicts the implementation of Android Services.
 
